@@ -15,6 +15,9 @@ public class Test {
 		Persona p3 = new Persona("Jonathan", "Morocho", 13);
 		System.out.println(p3);
 		
+		Persona p4 = new Persona("Pamela", "Andrango", 28);
+		System.out.println(p4);
+		
 	}
 
 }
